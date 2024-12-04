@@ -36,7 +36,7 @@ Unique tracking codes are generated using bitwise operations combining package I
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/jsville-courier-system.git
+git clone https://github.com/ntovarsolorzano/ist103_nelson_final_exam.git
 ```
 
 2. Open `index.html` in your web browser
@@ -53,7 +53,7 @@ jsville-courier-system/
 │
 ├── index.html          # Main application file
 ├── README.md          # Project documentation
-└── screenshots/       # Application screenshots (optional)
+└── (screenshots)       # Application screenshots (optional)
 ```
 
 ## Contributing
@@ -72,6 +72,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Designed with scalability in mind
 
 ## Contact
-Your Name - [@yourgithub](https://github.com/yourusername)
+Your Name - [@ntovarsolorzano](https://github.com/ntovarsolorzano)
 
-Project Link: [https://github.com/yourusername/jsville-courier-system](https://github.com/yourusername/jsville-courier-system)
+Project Link: See the AWS project
