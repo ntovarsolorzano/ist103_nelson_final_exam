@@ -36,7 +36,7 @@ Unique tracking codes are generated using bitwise operations combining package I
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/ntovarsolorzano/ist103_nelson_final_exam.git
+git clone https://github.com/ntovarsolorzano/ist103_nelson_final_exam.git .
 ```
 
 2. Open `index.html` in your web browser
