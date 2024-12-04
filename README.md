@@ -49,10 +49,13 @@ git clone https://github.com/ntovarsolorzano/ist103_nelson_final_exam.git
 
 ## Project Structure
 ```
-jsville-courier-system/
+
+ist103_nelson_final_exam/
 │
 ├── index.html          # Main application file
-├── README.md          # Project documentation
+├── styles.css          # Fancy css
+├── scripts.js          # The actual core of the project
+├── README.md           # Project documentation
 └── (screenshots)       # Application screenshots (optional)
 ```
 
